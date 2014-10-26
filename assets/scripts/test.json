@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "lote": "1234",
+            "id_lote":"8281",
+            "estado": "Pre-Siembra",
+            "especie": "-",
+            "empresa": "-",
+            "variedad": "-",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "",
+            "extra": [
+                {
+                    "cultivo_antecesor": "Soja",
+                    "fecha_cultivo_antecesor": "12/12/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "2415",
+            "id_lote":"4214",
+            "estado": "En Siembra",
+            "especie": "Trigo",
+            "empresa": "Bioceres",
+            "variedad": "BioInta 3007 BB",
+            "tipo_accion": "Manejar",
+            "tipo_alerta": "naranja",
+            "extra": [
+                {
+                    "tipo_siembra": "Convencional",
+                    "tareas_previas": ["Rotulado","Herbicida","Pre-Emergenta"]
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "5551",
+            "id_lote":"1111",
+            "estado": "En Manejo",
+            "especie": "Trigo",
+            "empresa": "BUCK",
+            "variedad": "Amancay",
+            "tipo_accion": "Cosechar",
+            "tipo_alerta": "amarillo",
+            "extra": [
+                {
+                    "fecha_estimada_floracion": "12/09/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "1122",
+            "id_lote":"5511",
+            "estado": "Cosechado",
+            "especie": "Soja 2da",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "",
+            "tipo_alerta": "",
+            "extra": [
+                {
+                    "rendimiento": "2500",
+                    "fecha_cosecha": "12/12/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "2215",
+            "id_lote":"8281",
+            "estado": "Pre-Siembra",
+            "especie": "Trigo",
+            "empresa": "Bioceres",
+            "variedad": "BioInta 3007 BB",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "cultivo_antecesor": "Soja",
+                    "fecha_cultivo_antecesor": "12/12/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "5511",
+            "id_lote":"4214",
+            "estado": "En Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Manejar",
+            "tipo_alerta": "naranja",
+            "extra": [
+                {
+                    "tipo_siembra": "Convencional",
+                    "tareas_previas": ["Rotulado","Herbicida","Pre-Emergenta"]
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "6626",
+            "id_lote":"5511",
+            "estado": "Cosechado",
+            "especie": "Soja 2da",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "",
+            "tipo_alerta": "",
+            "extra": [
+                {
+                    "rendimiento": "2500",
+                    "fecha_cosecha": "12/12/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "6661",
+            "id_lote":"8281",
+            "estado": "Pre-Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "cultivo_antecesor": "Soja",
+                    "fecha_cultivo_antecesor": "12/12/2011"
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "9281",
+            "id_lote":"4214",
+            "estado": "En Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Manejar",
+            "tipo_alerta": "naranja",
+            "extra": [
+                {
+                    "tipo_siembra": "Convencional",
+                    "tareas_previas": ["Rotulado","Herbicida","Pre-Emergenta"]
+                }
+            ],
+            "alertas": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        }
+    ]
+}

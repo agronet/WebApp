@@ -1,0 +1,111 @@
+{
+    "lotes": [
+        {
+            "lote": "1234",
+            "estado": "Pre-Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "cultivo_antecesor": "Soja",
+                    "fecha_cultivo_antecesor": "12/12/2011"
+                }
+            ],
+            "address": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "1234",
+            "estado": "Pre-Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "tipo_siembra": "Convencional",
+                    "tareas_previas": [
+                        "Rotulado",
+                        "Herbicida",
+                        "Pre-Emergenta"
+                    ]
+                }
+            ],
+            "address": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "1234",
+            "estado": "Pre-Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "fecha_floracion": "12/12/2014"
+                }
+            ],
+            "address": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        },
+        {
+            "lote": "1234",
+            "estado": "Pre-Siembra",
+            "especie": "Soja",
+            "empresa": "Nidera",
+            "variedad": "A8000",
+            "tipo_accion": "Sembrar",
+            "tipo_alerta": "roja",
+            "extra": [
+                {
+                    "rendimiento": "652",
+                    "fecha_cosecha": "12/12/2014"
+                }
+            ],
+            "address": [
+                {
+                    "tipo_alerta": "roja",
+                    "grado_severidad": "3",
+                    "tipo_severidad": "alto",
+                    "fecha_alarma": "12/12/2014",
+                    "recomendaciones": "hacer tal cosa y tal otra",
+                    "metodo_estimacion": "blablabl",
+                    "link_estimacion": "http://fasfasf.com.ar/afas"
+                }
+            ]
+        }
+    ]
+}

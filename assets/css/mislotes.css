@@ -1,0 +1,19 @@
+.red-warning{
+    background-color: #bb2413;
+}
+
+.orange-warning{
+    background-color: #eca22e;
+}
+
+.yellow-intense-warning{
+    background-color: #D4F000;
+}
+
+td.details-control {
+    background: url('../img/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('../img/details_close.png') no-repeat center center;
+}
